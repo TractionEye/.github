@@ -1,4 +1,4 @@
-# Описание репозиториев
+# Repositories description
 1. Frontend repository with Stonfi swap functionality: https://github.com/TractionEye/Traction-Eye/tree/hackathon
 2. Backend telegram bot repository: https://github.com/TractionEye/BaseBackend/tree/hackathon
 3. Functionality of parsing all wallet transactions: https://github.com/TractionEye/wallet_parser/tree/hackathon
