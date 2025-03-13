@@ -35,21 +35,14 @@ TractionEye is a decentralized trust management platform built on the TON blockc
 All processes are governed by audited smart contracts, ensuring that funds can only be used for trading through specified protocols. Our platform provides transparent on-chain performance metrics and works exclusively with trusted DEXes and tokens.
 
 
-**##🏆 Achievements**
-
-🏆Progressive portfolio tracker with 20k monthly active users
-🏆Partnership and technical support from Storm Trade for implementing our protocol
+## 🏆 Our Team Achievements
+🏆Built a progressive portfolio tracker with 20k monthly active users
 🏆Recipient of multiple Ston.fi grants for DEX integration and marketing support
-🏆IdeaTON winners in DeFi track
-🏆Growing community of 7,000+ Telegram subscribers
+🏆IdeaTON winners in DeFi and AI track
+🏆Growing community of 5,000+ Telegram subscribers
 
-##**📅 Coming Soon**
+## 📅 Coming Soon
 Beta Launch: End of March 2025
-Our roadmap includes:
-
-Q2 2025: Integration with Storm Trade and Ston.fi
-Q3 2025: Adding DeDust integration
-Q4 2025: Expanding to more DeFi protocols
 
 ## 🤝 Join Our Community
 
