@@ -2,14 +2,14 @@
   <img src="/profile/assets/TractionEye logo.jpg" alt="TractionEye Logo" width="200"/>
 </p>
 
-<h1 align="center">TractionEye</h1>
-<p align="center">
-  <strong>Pooled Social Trading Platform on TON Blockchain</strong>
-</p>
-<p align="center">
-  Invest in strategies by Alpha traders for best profit
-  Attract capital from the community and manage it
-</p>
+  <h2 align="center" style="font-size: 24px; margin-top: 10px; color: #0366d6;">
+    Pooled Social Trading Platform on TON Blockchain
+  </h2>
+  
+  <p align="center" style="font-size: 18px; margin: 16px 0;">
+    <b>For Investors:</b> Invest in strategies by Alpha traders for best profit<br>
+    <b>For Traders:</b> Attract capital from the community and manage it
+  </p>
 
 <p align="center">
   <a href="https://t.me/TractionEyebot/app">Try the App</a> •
