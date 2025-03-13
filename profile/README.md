@@ -32,24 +32,24 @@ TractionEye is a decentralized trust management platform built on the TON blockc
    - 5% to the referrers
 5. Both traders and investors can claim profits from each trade any time
 
-## 🛠️ Technology
+All processes are governed by audited smart contracts, ensuring that funds can only be used for trading through specified protocols. Our platform provides transparent on-chain performance metrics and works exclusively with trusted DEXes and tokens.
 
-TractionEye is built with transparency and security in mind:
 
-- Smart contracts on TON blockchain for secure and automated transactions
-- Integration with major DeFi protocols including Storm Trade and Stonfi
-- Real-time portfolio analytics and PnL tracking
+**##🏆 Achievements**
 
-## 📈 Roadmap
+🏆Progressive portfolio tracker with 20k monthly active users
+🏆Partnership and technical support from Storm Trade for implementing our protocol
+🏆Recipient of multiple Ston.fi grants for DEX integration and marketing support
+🏆IdeaTON winners in DeFi track
+🏆Growing community of 7,000+ Telegram subscribers
 
-- [x] Portfolio tracker MVP launch
-- [x] Integration with DeDust and Stonfi LP
-- [x] Referral-based Social Score system
-- [x] Integration with SettleTON indexes and vaults
-- [ ] Alpha release of Profit Share Protocol
-- [ ] NFT Collection Launch
-- [ ] Profit Share Protocol security audit
-- [ ] Profit Share Protocol MVP launch
+##**📅 Coming Soon**
+Beta Launch: End of March 2025
+Our roadmap includes:
+
+Q2 2025: Integration with Storm Trade and Ston.fi
+Q3 2025: Adding DeDust integration
+Q4 2025: Expanding to more DeFi protocols
 
 ## 🤝 Join Our Community
 
