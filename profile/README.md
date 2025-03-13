@@ -36,10 +36,10 @@ All processes are governed by audited smart contracts, ensuring that funds can o
 
 
 ## 🏆 Our Team Achievements
-🏆Built a progressive portfolio tracker with 20k monthly active users
-🏆Recipient of multiple Ston.fi grants for DEX integration and marketing support
-🏆IdeaTON winners in DeFi and AI track
-🏆Growing community of 5,000+ Telegram subscribers
+🏆Built a progressive portfolio tracker with 20k monthly active users<br>
+🏆Recipient of multiple Ston.fi grants for DEX integration and marketing support<br>
+🏆IdeaTON winners in DeFi and AI track<br>
+🏆Growing community of 5,000+ Telegram subscribers<br>
 
 ## 📅 Coming Soon
 Beta Launch: End of March 2025
