@@ -20,27 +20,17 @@
 
 ## 🚀 About TractionEye
 
-TractionEye is a decentralized Social Trading platform built on the TON blockchain, designed to bridge the gap between professional traders and investors. Our protocol enables traders to monetize their expertise by creating and managing investment strategies, while investors can effortlessly grow their wealth by allocating assets into these strategies.
-
-### Why TractionEye?
-
-- **Instant Deposits and Withdrawals** - Deposit or withdraw funds anytime with a single click
-- **Higher ROI** - Our trading-focused model delivers superior returns compared to traditional platforms 
-- **Security** - We work exclusively with trusted DEXes and coins, eliminating risks of rug pulls or scams
-- **Simple UX/UI** - Invest in professional strategies with just two clicks
-- **No KYC Required** - Trade with complete anonymity and privacy
-
+TractionEye is a decentralized trust management platform built on the TON blockchain that bridges the gap between professional traders and investors. Our protocol enables traders to monetize their expertise by creating and managing investment strategies, while investors can effortlessly grow their wealth by allocating assets into these strategies.
 ## 🌐 How It Works
 
-![How It Works](https://raw.githubusercontent.com/TractionEye/.github/main/profile/assets/how-it-works.png)
-
-1. **Traders** create strategies and contribute their own capital
+1. **Traders** create strategies with few clicks and contribute their own capital
 2. **Investors** deposit funds into strategies they like
 3. **Traders** manage pooled funds and execute trades for all participants
 4. **Profits** are automatically distributed:
-   - 70% to investors
-   - 20% to traders
-   - 10% to the platform
+   - 75% to investors
+   - 20% to trader
+   - 5% to the referrers
+5. Both traders and investors can claim profits from each trade any time
 
 ## 🛠️ Technology
 
