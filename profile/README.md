@@ -4,10 +4,11 @@
 
 <h1 align="center">TractionEye</h1>
 <p align="center">
-  <strong>Social Trading Protocol on TON Blockchain</strong>
+  <strong>Pooled Social Trading Platform on TON Blockchain</strong>
 </p>
 <p align="center">
-  Invest in professional traders' strategies and earn passive income with zero effort
+  Invest in strategies by Alpha traders for best profit
+  Attract capital from the community and manage it
 </p>
 
 <p align="center">
