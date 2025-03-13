@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TractionEye/.github/main/profile/assets/logo.png" alt="TractionEye Logo" width="200"/>
+  <img src="/profile/assets/TractionEye logo.jpg" alt="TractionEye Logo" width="200"/>
 </p>
 
 <h1 align="center">TractionEye</h1>
