@@ -42,7 +42,7 @@ All processes are governed by audited smart contracts, ensuring that funds can o
 🏆Growing community of 5,000+ Telegram subscribers<br>
 
 ## 📅 Coming Soon
-Beta Launch: End of March 2025
+Beta Launch: April 2025
 
 ## 🤝 Join Our Community
 
